@@ -19,4 +19,4 @@ A smart AI voice assistant built using React that can listen to voice commands a
 
 1. Clone the repository
 ```bash
-git clone https://github.com/GauravAkoliya02/AI-Voice-Assistantt.git
+git clone https://github.com/GauravAkoliya02/Ai-voice-Assistantt.git
